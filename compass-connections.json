@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "0d75bdca-1d90-4574-bcbd-07b45034e6fd",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1726579622059"
+        }
+      },
+      "favorite": {
+        "name": "Cluster0",
+        "color": "color3"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://heloomendess:He211204%40@cluster0.1ndeq.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
