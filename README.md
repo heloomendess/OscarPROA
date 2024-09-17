@@ -24,6 +24,5 @@
 11- Inclua no banco 3 filmes que nunca foram nem nomeados ao Oscar, mas que merecem ser. 
 
 12 - Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor?
-"Morgan Freeman",
-"winner": true,
-"year": 2004
+
+- Morgan Freeman, winner: true, year: 2004
