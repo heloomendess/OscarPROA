@@ -1,7 +1,5 @@
 <h1>E o oscar vai para...</h1>
 
-<h3>Exercícios</h3>
-
 <h4>1- Quantas vezes Natalie Portman foi indicada ao Oscar?</h4>
 <p>Natalie Portman foi indicada 3 vezes ao Oscar.</p>
 
